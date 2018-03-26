@@ -17,9 +17,14 @@ limitations under the License.
 {% endcomment %}
 -->
 [![Build Status](https://travis-ci.org/julianhyde/calcite.svg?branch=master)](https://travis-ci.org/julianhyde/calcite)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmichaelmior%2Fcalcite.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmichaelmior%2Fcalcite?ref=badge_shield)
 
 # Apache Calcite
 
 Apache Calcite is a dynamic data management framework.
 
 For more details, see the [home page](http://calcite.apache.org).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmichaelmior%2Fcalcite.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmichaelmior%2Fcalcite?ref=badge_large)
